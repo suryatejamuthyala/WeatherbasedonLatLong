@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "c6e11d27-424c-4759-acd1-914dbf809dd5",
+		"name": "Avant Garde",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": ""
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

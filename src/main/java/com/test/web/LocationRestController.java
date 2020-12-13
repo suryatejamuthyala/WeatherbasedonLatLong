@@ -20,11 +20,9 @@ import java.util.List;
 
 @RestController
 public class LocationRestController {
-    private String API_KEY = "b4bc98201ef4fbaca2e89f55e1553217";
-
     @Autowired
     RestTemplate restTemplate;
-
+    private String API_KEY = "b4bc98201ef4fbaca2e89f55e1553217";
 
     @GetMapping("/locations")
     public List<Location> getName(@RequestParam Double lat, @RequestParam Double lang, @RequestParam Integer maxDistance) {
@@ -59,8 +57,8 @@ public class LocationRestController {
         location.setLat((double) employee.get("lat"));
         location.setLng((double) employee.get("lng"));
         location.setUrl((String) employee.get("url"));
-        if (distance(location.getLat(), location.getLng(), lat, lang, 'K') < maxDistance) {
-            if(isGoodWeather(location.getLat(), location.getLng())) {
+        if (distance(location.getLat(), location.getLng(), lat, lang, 'K') <= maxDistance) {
+            if (isGoodWeather(location.getLat(), location.getLng())) {
                 locations.add(location);
             }
         }
@@ -94,17 +92,16 @@ public class LocationRestController {
         return (rad * 180.0 / Math.PI);
     }
 
-    public boolean isGoodWeather(double lat,double lon) {
-        String url = "http://api.openweathermap.org/data/2.5/weather?lat="+lat+"&lon="+lon+"&appid="+API_KEY;
+    public boolean isGoodWeather(double lat, double lon) {
+        String url = "http://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" + lon + "&appid=" + API_KEY;
         JSONObject object = this.restTemplate.getForObject(url, JSONObject.class);
-        if(object !=null && object.get("main") != null ) {
+        if (object != null && object.get("main") != null) {
             double minTemp = (double) ((LinkedHashMap) object.get("main")).get("temp_min");
             double maxTemp = (double) ((LinkedHashMap) object.get("main")).get("temp_max");
-           if(minTemp>250 && maxTemp<290){
-               return true;
-           }
+            if (minTemp > 250 && maxTemp < 290) {
+                return true;
+            }
         }
-
         return false;
     }
 }
