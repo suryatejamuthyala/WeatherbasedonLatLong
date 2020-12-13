@@ -28,7 +28,7 @@ Here is a Java Project for above task, where API should be passed 3 parameters L
 
 1. Check out project from https://github.com/suryatejamuthyala/avantgardelocationtask in Intellij (preferred).
 2. Please run class com/test/web/Application.java
-3. Use Postman or any similar tool to hit the URL (if using postman, collection can be imported from Postman directory) : http://localhost:8080/locations?lat=42.3976669 &lang=-71.1436366&maxDistance=5 (please change params as required).
+3. Use Postman or any similar tool to hit the URL (if using postman, collection can be imported from Postman directory) : http://localhost:8080/locations?lat=42.3976669&lang=-71.1436366&maxDistance=5 (please change params as required).
 4. Results will be displayed from locations.json within the 5 miles (ca. 8 km) (as per param).
 5. Please refer com/test/web/LocationRestController.java for Logic.
 
