@@ -1,0 +1,8 @@
+com/test/web/LocationRestController.java
+ com.test.web.LocationRestController
+com/test/web/Application.java
+ com.test.web.Application
+com/test/web/LocationRequest.java
+ com.test.web.LocationRequest
+com/test/web/Location.java
+ com.test.web.Location

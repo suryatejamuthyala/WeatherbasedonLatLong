@@ -1,0 +1,1086 @@
+[{
+		"address": "Alewife Station Access Rd., Cambridge, MA 02140",
+		"lat": 42.3976669,
+		"lng": -71.1436366,
+		"name": "Alewife Brook Reservation",
+		"url": "https://www.mass.gov/locations/alewife-brook-reservation"
+	},
+	{
+		"address": "Linwood St., Abington, MA 02351",
+		"lat": 42.107266,
+		"lng": -70.97104999999999,
+		"name": "Ames Nowell State Park",
+		"url": "https://www.mass.gov/locations/ames-nowell-state-park"
+	},
+	{
+		"address": "30 Rockwell Road, Lanesborough, MA 01237",
+		"lat": 42.5538839,
+		"lng": -73.21368269999999,
+		"name": "Appalachian Trail",
+		"url": "https://www.mass.gov/locations/appalachian-trail"
+	},
+	{
+		"address": "156 West Union St, Ashland, MA 01721",
+		"lat": 42.2383309,
+		"lng": -71.4685247,
+		"name": "Ashland State Park",
+		"url": "https://www.mass.gov/locations/ashland-state-park"
+	},
+	{
+		"address": "Ashuwillticook Rail Trail, Cheshire, MA 01225",
+		"lat": 42.5582335,
+		"lng": -73.16083429999999,
+		"name": "Ashuwillticook Rail Trail",
+		"url": "https://www.mass.gov/locations/ashuwillticook-rail-trail"
+	},
+	{
+		"address": "Falls Road, Mt. Washington, MA 01258",
+		"lat": 42.111081,
+		"lng": -73.489013,
+		"name": "Bash Bish Falls State Park",
+		"url": "https://www.mass.gov/locations/bash-bish-falls-state-park"
+	},
+	{
+		"address": "69 Blue Hill Road, Monterey, MA 01245",
+		"lat": 42.1868279,
+		"lng": -73.2639193,
+		"name": "Beartown State Forest",
+		"url": "https://www.mass.gov/locations/beartown-state-forest"
+	},
+	{
+		"address": "66 Mill St., Belmont, MA 02478",
+		"lat": 42.3926734,
+		"lng": -71.1965558,
+		"name": "Beaver Brook Reservation",
+		"url": "https://www.mass.gov/locations/beaver-brook-reservation"
+	},
+	{
+		"address": "1399 Bennington St., East Boston, MA 02128",
+		"lat": 42.3925131,
+		"lng": -70.9949524,
+		"name": "Belle Isle Marsh",
+		"url": "https://www.mass.gov/locations/belle-isle-marsh-reservation"
+	},
+	{
+		"address": "287 Oak St. , Uxbridge, MA 01569",
+		"lat": 42.0938963,
+		"lng": -71.62382319999999,
+		"name": "Blackstone River and Canal Heritage State Park",
+		"url": "https://www.mass.gov/locations/blackstone-river-and-canal-heritage-state-park"
+	},
+	{
+		"address": "695 Hillside St., Milton, MA 02186",
+		"lat": 42.2144707,
+		"lng": -71.0937039,
+		"name": "Blue Hills Reservation",
+		"url": "https://www.mass.gov/locations/blue-hills-reservation"
+	},
+	{
+		"address": "259 Massapoag Ave., North Easton, MA 02356",
+		"lat": 42.0599036,
+		"lng": -71.1652749,
+		"name": "Borderland State Park",
+		"url": "https://www.mass.gov/locations/borderland-state-park"
+	},
+	{
+		"address": "Boston Harbor Islands, Boston, MA 02110",
+		"lat": 42.3602182,
+		"lng": -71.05242249999999,
+		"name": "Boston Harbor Islands",
+		"url": "https://www.mass.gov/locations/boston-harbor-islands"
+	},
+	{
+		"address": "40 Asbury St, Topsfield, MA 01983",
+		"lat": 42.6512354,
+		"lng": -70.90552269999999,
+		"name": "Bradley Palmer State Park",
+		"url": "https://www.mass.gov/locations/bradley-palmer-state-park"
+	},
+	{
+		"address": "177 Forest St., Saugus, MA 01906",
+		"lat": 42.4799773,
+		"lng": -71.0258374,
+		"name": "Breakheart Reservation",
+		"url": "https://www.mass.gov/locations/breakheart-reservation"
+	},
+	{
+		"address": "86 Dearth Hill Rd. Brimfield MA 01010, Brimfield, MA 01010",
+		"lat": 42.0982717,
+		"lng": -72.2427735,
+		"name": "Brimfield State Forest",
+		"url": "https://www.mass.gov/locations/brimfield-state-forest"
+	},
+	{
+		"address": "108 North St., Norfolk, MA 02056",
+		"lat": 42.1078603,
+		"lng": -71.3175569,
+		"name": "Bristol Blake State Reservation",
+		"url": "https://www.mass.gov/locations/bristol-blake-state-reservation"
+	},
+	{
+		"address": "670 Baker St., West Roxbury, MA 02132",
+		"lat": 42.2889467,
+		"lng": -71.178271,
+		"name": "Brook Farm Historic Site",
+		"url": "https://www.mass.gov/locations/brook-farm-historic-site"
+	},
+	{
+		"address": "Rte. 112 North, Huntington, MA 01050",
+		"lat": 42.2336017,
+		"lng": -72.87964459999999,
+		"name": "C.M. Gardner State Park",
+		"url": "https://www.mass.gov/locations/cm-gardner-state-park"
+	},
+	{
+		"address": "1048 Edmands Rd, Framingham, MA 01701",
+		"lat": 42.3298289,
+		"lng": -71.47676400000002,
+		"name": "Callahan State Park",
+		"url": "https://www.mass.gov/locations/callahan-state-park"
+	},
+	{
+		"address": "131 Walnut St., Saugus, MA 01906",
+		"lat": 42.4926339,
+		"lng": -71.0200381,
+		"name": "Camp Nihan Education Center",
+		"url": "https://www.mass.gov/locations/camp-nihan-education-center"
+	},
+	{
+		"address": "3488 Main St., Brewster, MA 02631",
+		"lat": 41.7753921,
+		"lng": -70.03229139999999,
+		"name": "Cape Cod Rail Trail",
+		"url": "https://www.mass.gov/locations/cape-cod-rail-trail"
+	},
+	{
+		"address": "2010 Day Blvd., Boston, MA 02127",
+		"lat": 42.3378588,
+		"lng": -71.0118892,
+		"name": "Castle Island, Pleasure Bay, M Street Beach and Carson Beach",
+		"url": "https://www.mass.gov/locations/castle-island-pleasure-bay-m-street-beach-and-carson-beach"
+	},
+	{
+		"address": "1175A Soldiers Field Road, Boston, MA 02116",
+		"lat": 42.36484919999999,
+		"lng": -71.1355085,
+		"name": "Charles River Reservation",
+		"url": "https://www.mass.gov/locations/charles-river-reservation"
+	},
+	{
+		"address": "355 Chestnut Hill Ave., Brighton, MA 02135",
+		"lat": 42.3363226,
+		"lng": -71.1521855,
+		"name": "Chestnut Hill Reservation",
+		"url": "https://www.mass.gov/locations/chestnut-hill-reservation"
+	},
+	{
+		"address": "570 Burnett Rd., Chicopee, MA 01020",
+		"lat": 42.1803698,
+		"lng": -72.5367504,
+		"name": "Chicopee Memorial State Park",
+		"url": "https://www.mass.gov/locations/chicopee-memorial-state-park"
+	},
+	{
+		"address": "1199 Middle Rd, Clarksburg, MA 01247",
+		"lat": 42.7340321,
+		"lng": -73.0762166,
+		"name": "Clarksburg State Park",
+		"url": "https://www.mass.gov/locations/clarksburg-state-park"
+	},
+	{
+		"address": "43 Commonwealth Road, Natick, MA 01760",
+		"lat": 42.30903199999999,
+		"lng": -71.3774657,
+		"name": "Cochituate State Park",
+		"url": "https://www.mass.gov/locations/cochituate-state-park"
+	},
+	{
+		"address": "136 Damon Rd., Northampton, MA 01060",
+		"lat": 42.3393416,
+		"lng": -72.6314017,
+		"name": "Connecticut River Greenway State Park",
+		"url": "https://www.mass.gov/locations/connecticut-river-greenway-state-park"
+	},
+	{
+		"address": "0 Barnes Ave., Boston, MA 02128",
+		"lat": 42.385979,
+		"lng": -71.0053713,
+		"name": "Constitution Beach Park",
+		"url": "https://www.mass.gov/locations/constitution-beach-park"
+	},
+	{
+		"address": "84 Kendrick St., Needham, MA 02494",
+		"lat": 42.2962487,
+		"lng": -71.2120055,
+		"name": "Cutler Park Reservation",
+		"url": "https://www.mass.gov/locations/cutler-park-reservation"
+	},
+	{
+		"address": "78 Cape St., Goshen, MA 01032",
+		"lat": 42.4572667,
+		"lng": -72.8053126,
+		"name": "Daughters of the American Revolution (DAR) State Forest",
+		"url": "https://www.mass.gov/locations/daughters-of-the-american-revolution-dar-state-forest"
+	},
+	{
+		"address": "115 Barneys Joy Road, Dartmouth, MA 02748",
+		"lat": 41.52568,
+		"lng": -70.990377,
+		"name": "Demarest Lloyd State Park",
+		"url": "https://www.mass.gov/locations/demarest-lloyd-state-park"
+	},
+	{
+		"address": "3rd Ave., Berkley, MA 02779",
+		"lat": 41.8110457,
+		"lng": -71.1029049,
+		"name": "Dighton Rock State Park",
+		"url": "https://www.mass.gov/locations/dighton-rock-state-park"
+	},
+	{
+		"address": "107 Wallum Lake Road, Douglas, MA 01516",
+		"lat": 42.0333021,
+		"lng": -71.7627435,
+		"name": "Douglas State Forest",
+		"url": "https://www.mass.gov/locations/douglas-state-forest"
+	},
+	{
+		"address": "289 Pearl St., Gardner, MA 01440",
+		"lat": 42.577404,
+		"lng": -71.971997,
+		"name": "Dunn State Park",
+		"url": "https://www.mass.gov/locations/dunn-state-park"
+	},
+	{
+		"address": "1861 State Road, Plymouth, MA 02360",
+		"lat": 41.846407,
+		"lng": -70.5407759,
+		"name": "Ellisville Harbor State Park",
+		"url": "https://www.mass.gov/locations/ellisville-harbor-state-park"
+	},
+	{
+		"address": "900 Washington St., Wellesley, MA 02482",
+		"lat": 42.2765581,
+		"lng": -71.3107459,
+		"name": "Elm Bank Reservation",
+		"url": "https://www.mass.gov/locations/elm-bank-reservation"
+	},
+	{
+		"address": "Erving State Forest, Erving, MA 01344",
+		"lat": 42.6167178,
+		"lng": -72.38060109999999,
+		"name": "Erving State Forest",
+		"url": "https://www.mass.gov/locations/erving-state-forest"
+	},
+	{
+		"address": "45 Mill Street, Foxborough, MA 02035",
+		"lat": 42.049881,
+		"lng": -71.26621999999999,
+		"name": "F. Gilbert Hills State Forest",
+		"url": "https://www.mass.gov/locations/f-gilbert-hills-state-forest"
+	},
+	{
+		"address": "Davol Street, Fall River, MA 02720",
+		"lat": 41.7131022,
+		"lng": -71.155635,
+		"name": "Fall River Heritage State Park",
+		"url": "https://www.mass.gov/locations/fall-river-heritage-state-park"
+	},
+	{
+		"address": "705 Neponset Ave, Canton, MA 02021",
+		"lat": 42.1676949,
+		"lng": -71.16640009999999,
+		"name": "Farnham-Connolly State Park",
+		"url": "https://www.mass.gov/locations/farnham-connolly-state-park"
+	},
+	{
+		"address": "State Forest Road, Petersham, MA 01366",
+		"lat": 42.4983142,
+		"lng": -72.253939,
+		"name": "Federated Women's Club State Forest",
+		"url": "https://www.mass.gov/locations/federated-womens-club-state-forest"
+	},
+	{
+		"address": "Green Street, Fairhaven, MA 02719",
+		"lat": 41.6366741,
+		"lng": -70.9018388,
+		"name": "Fort Phoenix State Reservation",
+		"url": "https://www.mass.gov/locations/fort-phoenix-state-reservation"
+	},
+	{
+		"address": "60 Farina Road, Hull, MA 02045",
+		"lat": 42.3050032,
+		"lng": -70.9065282,
+		"name": "Fort Revere Park",
+		"url": "https://www.mass.gov/locations/fort-revere-park"
+	},
+	{
+		"address": "1015 Truman Parkway, Boston, MA 02136",
+		"lat": 42.2440569,
+		"lng": -71.1268411,
+		"name": "Francis D. Martini Memorial Shell Park and Moynihan Recreation Area",
+		"url": "https://www.mass.gov/locations/francis-d-martini-memorial-shell-park-and-moynihan-recreation-area"
+	},
+	{
+		"address": "80 Forge Hill Rd, Franklin, MA 02038",
+		"lat": 42.0767864,
+		"lng": -71.43520529999999,
+		"name": "Franklin State Forest",
+		"url": "https://www.mass.gov/locations/franklin-state-forest"
+	},
+	{
+		"address": "110 Slab Bridge Road, Assonet, MA 02702",
+		"lat": 41.7793564,
+		"lng": -71.0422174,
+		"name": "Freetown-Fall River State Forest",
+		"url": "https://www.mass.gov/locations/freetown-fall-river-state-forest"
+	},
+	{
+		"address": "Route 97, Georgetown, MA 01833",
+		"lat": 42.7313898,
+		"lng": -71.00421589999999,
+		"name": "Georgetown-Rowley State Forest",
+		"url": "https://www.mass.gov/locations/georgetown-rowley-state-forest"
+	},
+	{
+		"address": "323 West Hartland Road, Granville, MA 01034",
+		"lat": 42.059705,
+		"lng": -72.971481,
+		"name": "Granville State Forest",
+		"url": "https://www.mass.gov/locations/granville-state-forest"
+	},
+	{
+		"address": "165 North Road, Carlisle, MA 01741",
+		"lat": 42.5527145,
+		"lng": -71.3491477,
+		"name": "Great Brook Farm State Park",
+		"url": "https://www.mass.gov/locations/great-brook-farm-state-park"
+	},
+	{
+		"address": "2 Avenue A, Turners Falls, MA 01376",
+		"lat": 42.6101834,
+		"lng": -72.55565109999999,
+		"name": "Great Falls Discovery Center",
+		"url": "https://www.mass.gov/locations/great-falls-discovery-center"
+	},
+	{
+		"address": "Gott Avenue, Rockport, MA 01966",
+		"lat": 42.688115,
+		"lng": -70.629911,
+		"name": "Halibut Point State Park",
+		"url": "https://www.mass.gov/locations/halibut-point-state-park"
+	},
+	{
+		"address": "Hammond Pond Parkway, Newton, MA 02168",
+		"lat": 42.3214194,
+		"lng": -71.1723739,
+		"name": "Hammond Pond Reservation",
+		"url": "https://www.mass.gov/locations/hammond-pond-reservation"
+	},
+	{
+		"address": "1048 North Road, Westfield, MA 01085",
+		"lat": 42.179372,
+		"lng": -72.68859499999999,
+		"name": "Hampton Ponds State Park",
+		"url": "https://www.mass.gov/locations/hampton-ponds-state-park"
+	},
+	{
+		"address": "305 Middleton Road, North Andover, MA 01845",
+		"lat": 42.6158294,
+		"lng": -71.07276449999999,
+		"name": "Harold Parker State Forest",
+		"url": "https://www.mass.gov/locations/harold-parker-state-forest"
+	},
+	{
+		"address": "Hamilton Place, Newton, MA 02464",
+		"lat": 42.3128354,
+		"lng": -71.22784709999999,
+		"name": "Hemlock Gorge Reservation",
+		"url": "https://www.mass.gov/locations/hemlock-gorge-reservation"
+	},
+	{
+		"address": "221 Appleton St., Holyoke, MA 01040",
+		"lat": 42.205184,
+		"lng": -72.60717799999999,
+		"name": "Holyoke Heritage State Park",
+		"url": "https://www.mass.gov/locations/holyoke-heritage-state-park"
+	},
+	{
+		"address": "164 Cedar St., Hopkinton, MA 01748",
+		"lat": 42.2617471,
+		"lng": -71.5243634,
+		"name": "Hopkinton State Park",
+		"url": "https://www.mass.gov/locations/hopkinton-state-park"
+	},
+	{
+		"address": "5 John Reed Road, Westport, MA 02791",
+		"lat": 41.5119906,
+		"lng": -71.0631676,
+		"name": "Horseneck Beach State Reservation",
+		"url": "https://www.mass.gov/locations/horseneck-beach-state-reservation"
+	},
+	{
+		"address": "840 Hillside St., Milton, MA 02186",
+		"lat": 42.2081857,
+		"lng": -71.09452689999999,
+		"name": "Houghton's Pond Recreation Area",
+		"url": "https://www.mass.gov/locations/houghtons-pond-recreation-area"
+	},
+	{
+		"address": "Jug End Road, Egremont, MA 01230",
+		"lat": 42.1480764,
+		"lng": -73.4346671,
+		"name": "Jug End State Reservation & Wildlife Management Area",
+		"url": "https://www.mass.gov/locations/jug-end-state-reservation-wildlife-management-area"
+	},
+	{
+		"address": "466 W. Hawley Road, Plainfield, MA 01070",
+		"lat": 42.551949,
+		"lng": -72.94157249999999,
+		"name": "Kenneth Dubuque Memorial State Forest",
+		"url": "https://www.mass.gov/locations/kenneth-dubuque-memorial-state-forest"
+	},
+	{
+		"address": "86 Winchendon Road, Baldwinville, MA 01436",
+		"lat": 42.6209573,
+		"lng": -72.0748186,
+		"name": "Lake Dennison Recreation Area",
+		"url": "https://www.mass.gov/locations/lake-dennison-recreation-area"
+	},
+	{
+		"address": "1 Jackson St., Lawrence, MA 01840",
+		"lat": 42.7068859,
+		"lng": -71.1576627,
+		"name": "Lawrence Heritage State Park",
+		"url": "https://www.mass.gov/locations/lawrence-heritage-state-park"
+	},
+	{
+		"address": "190 Park Rd, Weston, MA 02493",
+		"lat": 42.3319261,
+		"lng": -71.2679321,
+		"name": "Leo J. Martin Memorial Golf Course",
+		"url": "https://www.mass.gov/locations/leo-j-martin-memorial-golf-course"
+	},
+	{
+		"address": "190 Park Rd, Weston, MA 02493",
+		"lat": 42.3319261,
+		"lng": -71.2679321,
+		"name": "Leo J. Martin Ski Track",
+		"url": "https://www.mass.gov/locations/leo-j-martin-ski-track"
+	},
+	{
+		"address": "1 Fitchburg Road, Westminster, MA 01473",
+		"lat": 42.5319886,
+		"lng": -71.8561244,
+		"name": "Leominster State Forest",
+		"url": "https://www.mass.gov/locations/leominster-state-forest"
+	},
+	{
+		"address": "160 Pawtucket Boulevard, Lowell, MA 01854",
+		"lat": 42.6437084,
+		"lng": -71.3398244,
+		"name": "Lowell Heritage State Park",
+		"url": "https://www.mass.gov/locations/lowell-heritage-state-park"
+	},
+	{
+		"address": "Trotting Park Road, Lowell, MA 01850",
+		"lat": 42.6563378,
+		"lng": -71.370766,
+		"name": "Lowell-Dracut-Tyngsboro State Forest",
+		"url": "https://www.mass.gov/locations/lowell-dracut-tyngsboro-state-forest"
+	},
+	{
+		"address": "Hallet Street, Boston, MA 02124",
+		"lat": 42.28397940000001,
+		"lng": -71.0467347,
+		"name": "Lower Neponset River Trail",
+		"url": "https://www.mass.gov/locations/lower-neponset-river-trail"
+	},
+	{
+		"address": "1 Nahant Road, Nahant, MA 01908",
+		"lat": 42.44209499999999,
+		"lng": -70.9395773,
+		"name": "Lynn Shore & Nahant Beach Reservation",
+		"url": "https://www.mass.gov/locations/lynn-shore-nahant-beach-reservation"
+	},
+	{
+		"address": "Barnes Road, Edgartown, MA 02539",
+		"lat": 41.4186199,
+		"lng": -70.6021738,
+		"name": "Manuel F. Correllus State Forest",
+		"url": "https://www.mass.gov/locations/manuel-f-correllus-state-forest"
+	},
+	{
+		"address": "Commandant’s Way, Chelsea, MA 02150",
+		"lat": 42.3881642,
+		"lng": -71.0486435,
+		"name": "Mary O'Malley State Park",
+		"url": "https://www.mass.gov/locations/mary-omalley-state-park"
+	},
+	{
+		"address": "1361 Middleboro Ave., East Taunton, MA 02718",
+		"lat": 41.88422660000001,
+		"lng": -70.99500789999999,
+		"name": "Massasoit State Park",
+		"url": "https://www.mass.gov/locations/massasoit-state-park"
+	},
+	{
+		"address": "74 Curzon Mill Road, Newburyport, MA 01950",
+		"lat": 42.82249840000001,
+		"lng": -70.9221584,
+		"name": "Maudslay State Park",
+		"url": "https://www.mass.gov/locations/maudslay-state-park"
+	},
+	{
+		"address": "120 Martin Luther King Jr. Blvd, Roxbury, MA 02119",
+		"lat": 42.3218797,
+		"lng": -71.09091049999999,
+		"name": "Melnea A. Cass Recreational Complex",
+		"url": "https://www.mass.gov/locations/melnea-a-cass-recreational-complex"
+	},
+	{
+		"address": "4 Woodland Road, Stoneham, MA 02180",
+		"lat": 42.4548769,
+		"lng": -71.0910962,
+		"name": "Middlesex Fells Reservation",
+		"url": "https://www.mass.gov/locations/middlesex-fells-reservation"
+	},
+	{
+		"address": "Cold River Road, Charlemont, MA 01339",
+		"lat": 42.6383051,
+		"lng": -72.93600239999999,
+		"name": "Mohawk Trail State Forest",
+		"url": "https://www.mass.gov/locations/mohawk-trail-state-forest"
+	},
+	{
+		"address": "Tilda Hill Road, Monroe, MA 01247",
+		"lat": 42.709256,
+		"lng": -73.031477,
+		"name": "Monroe State Forest",
+		"url": "https://www.mass.gov/locations/monroe-state-forest"
+	},
+	{
+		"address": "1 Sawmill Road, Paxton, MA 01612",
+		"lat": 42.3126605,
+		"lng": -71.95737989999999,
+		"name": "Moore State Park",
+		"url": "https://www.mass.gov/locations/moore-state-park"
+	},
+	{
+		"address": "143 East St., Mt. Washington, MA 01258",
+		"lat": 42.1040927,
+		"lng": -73.4526556,
+		"name": "Mount Everett State Reservation",
+		"url": "https://www.mass.gov/locations/mount-everett-state-reservation"
+	},
+	{
+		"address": "78 Winchester Road, Warwick, MA 01378",
+		"lat": 42.6887946,
+		"lng": -72.3409592,
+		"name": "Mount Grace State Forest",
+		"url": "https://www.mass.gov/locations/mount-grace-state-forest"
+	},
+	{
+		"address": "30 Rockwell Road, Lanesborough, MA 01237",
+		"lat": 42.5538839,
+		"lng": -73.21368269999999,
+		"name": "Mount Greylock State Reservation",
+		"url": "https://www.mass.gov/locations/mount-greylock-state-reservation"
+	},
+	{
+		"address": "1500 West St., Amherst, MA 01002",
+		"lat": 42.3068592,
+		"lng": -72.51160899999999,
+		"name": "Mount Holyoke Range State Park",
+		"url": "https://www.mass.gov/locations/mount-holyoke-range-state-park"
+	},
+	{
+		"address": "300 Sugarloaf St., South Deerfield, MA 01373",
+		"lat": 42.4672945,
+		"lng": -72.5947149,
+		"name": "Mount Sugarloaf State Reservation",
+		"url": "https://www.mass.gov/locations/mount-sugarloaf-state-reservation"
+	},
+	{
+		"address": "125 Reservation Road, Holyoke, MA 01040",
+		"lat": 42.268103,
+		"lng": -72.62515599999999,
+		"name": "Mount Tom State Reservation",
+		"url": "https://www.mass.gov/locations/mount-tom-state-reservation"
+	},
+	{
+		"address": "165A East St., Mount Washington, MA 01258",
+		"lat": 42.0894159,
+		"lng": -73.4590687,
+		"name": "Mount Washington State Forest",
+		"url": "https://www.mass.gov/locations/mount-washington-state-forest"
+	},
+	{
+		"address": "Crescent St., Duxbury, MA 02332",
+		"lat": 42.0134819,
+		"lng": -70.6820899,
+		"name": "Myles Standish Monument State Reservation",
+		"url": "https://www.mass.gov/locations/myles-standish-monument-state-reservation"
+	},
+	{
+		"address": "194 Cranberry Rd., Carver, MA 02330",
+		"lat": 41.8394731,
+		"lng": -70.6913443,
+		"name": "Myles Standish State Forest",
+		"url": "https://www.mass.gov/locations/myles-standish-state-forest"
+	},
+	{
+		"address": "481 Mystic Valley Pkwy, Medford, MA 02155",
+		"lat": 42.4316939,
+		"lng": -71.1455233,
+		"name": "Mystic Lakes State Park",
+		"url": "https://www.mass.gov/locations/mystic-lakes-state-park"
+	},
+	{
+		"address": "Mystic Valley Pkwy, Medford, MA 02155",
+		"lat": 42.4190461,
+		"lng": -71.1166661,
+		"name": "Mystic River State Reservation",
+		"url": "https://www.mass.gov/locations/mystic-river-state-reservation"
+	},
+	{
+		"address": "212 Nantasket Ave., Hull, MA 02045",
+		"lat": 42.271227,
+		"lng": -70.85604529999999,
+		"name": "Nantasket Beach Reservation",
+		"url": "https://www.mass.gov/locations/nantasket-beach-reservation"
+	},
+	{
+		"address": "Allerton St., Plymouth, MA 02360",
+		"lat": 41.9588268,
+		"lng": -70.6722175,
+		"name": "National Monument to the Forefathers",
+		"url": "https://www.mass.gov/locations/national-monument-to-the-forefathers"
+	},
+	{
+		"address": "Rt. 2A, Ayer, MA 01432",
+		"lat": 42.5524522,
+		"lng": -71.5697096,
+		"name": "Nashua River Rail Trail",
+		"url": "https://www.mass.gov/locations/nashua-river-rail-trail"
+	},
+	{
+		"address": "Branch Beach Road, Mattapoisett, MA 02739",
+		"lat": 41.6616191,
+		"lng": -70.8198098,
+		"name": "Nasketucket Bay State Reservation",
+		"url": "https://www.mass.gov/locations/nasketucket-bay-state-reservation"
+	},
+	{
+		"address": "McAuley Road, North Adams, MA 01247",
+		"lat": 42.7065433,
+		"lng": -73.0905509,
+		"name": "Natural Bridge State Park",
+		"url": "https://www.mass.gov/locations/natural-bridge-state-park"
+	},
+	{
+		"address": "76 Hill Top St., Boston, MA 02124",
+		"lat": 42.2791487,
+		"lng": -71.05273269999999,
+		"name": "Neponset River Reservation",
+		"url": "https://www.mass.gov/locations/neponset-river-reservation"
+	},
+	{
+		"address": "3488 Main St., Brewster, MA 02631",
+		"lat": 41.7753921,
+		"lng": -70.03229139999999,
+		"name": "Nickerson State Park",
+		"url": "https://www.mass.gov/locations/nickerson-state-park"
+	},
+	{
+		"address": "446 Damon Rd., Northampton, MA 01060",
+		"lat": 42.3350622,
+		"lng": -72.6221065,
+		"name": "Norwottuck Rail Trail",
+		"url": "https://www.mass.gov/locations/norwottuck-rail-trail"
+	},
+	{
+		"address": "317 Woodland Road, Lee, MA 01238",
+		"lat": 42.3378783,
+		"lng": -73.2343257,
+		"name": "October Mountain State Forest",
+		"url": "https://www.mass.gov/locations/october-mountain-state-forest"
+	},
+	{
+		"address": "86 Winchendon Road, Baldwinville, MA 01436",
+		"lat": 42.6209573,
+		"lng": -72.0748186,
+		"name": "Otter River State Forest",
+		"url": "https://www.mass.gov/locations/otter-river-state-forest"
+	},
+	{
+		"address": "105 New Fitchburg Road, West Townsend, MA 01474",
+		"lat": 42.6551784,
+		"lng": -71.7571379,
+		"name": "Pearl Hill State Park",
+		"url": "https://www.mass.gov/locations/pearl-hill-state-park"
+	},
+	{
+		"address": "79 Water St., Plymouth, MA 02360",
+		"lat": 41.9590045,
+		"lng": -70.6622022,
+		"name": "Pilgrim Memorial State Park",
+		"url": "https://www.mass.gov/locations/pilgrim-memorial-state-park"
+	},
+	{
+		"address": "1041 Cascade St., Pittsfield, MA 01201",
+		"lat": 42.4812701,
+		"lng": -73.3013588,
+		"name": "Pittsfield State Forest",
+		"url": "https://www.mass.gov/locations/pittsfield-state-forest"
+	},
+	{
+		"address": "2167 Washington Street, Canton, MA 02021",
+		"lat": 42.1917022,
+		"lng": -71.1175451,
+		"name": "Ponkapoag Golf Course",
+		"url": "https://www.mass.gov/locations/ponkapoag-golf-course"
+	},
+	{
+		"address": "Hallet Street, Boston, MA 02124",
+		"lat": 42.28397940000001,
+		"lng": -71.0467347,
+		"name": "Pope John Paul ll Park Reservation",
+		"url": "https://www.mass.gov/locations/pope-john-paul-ii-park-reservation"
+	},
+	{
+		"address": "198 Purgatory Rd. , Sutton, MA 01590",
+		"lat": 42.12906599999999,
+		"lng": -71.715114,
+		"name": "Purgatory Chasm State Reservation",
+		"url": "https://www.mass.gov/locations/purgatory-chasm-state-reservation"
+	},
+	{
+		"address": "100 Winsor Dam Rd., Belchertown , MA 01007",
+		"lat": 42.2800476,
+		"lng": -72.3479009,
+		"name": "Quabbin Reservoir",
+		"url": "https://www.mass.gov/locations/quabbin-reservoir"
+	},
+	{
+		"address": "Quincy Quarries, Quincy, MA 02169",
+		"lat": 42.243293,
+		"lng": -71.03418599999999,
+		"name": "Quincy Quarries Reservation",
+		"url": "https://www.mass.gov/locations/quincy-quarries-reservation"
+	},
+	{
+		"address": "Quincy Shore Drive, Quincy, MA 02170",
+		"lat": 42.2771818,
+		"lng": -71.0111484,
+		"name": "Quincy Shores Reservation",
+		"url": "https://www.mass.gov/locations/quincy-shores-reservation"
+	},
+	{
+		"address": "10 N. Lake Ave., Worcester, MA 01612",
+		"lat": 42.2773644,
+		"lng": -71.7577847,
+		"name": "Quinsigamond State Park",
+		"url": "https://www.mass.gov/locations/quinsigamond-state-park"
+	},
+	{
+		"address": "90 Peck Street, Rehoboth, MA 02769",
+		"lat": 41.8885295,
+		"lng": -71.2095897,
+		"name": "Rehoboth State Forest",
+		"url": "https://www.mass.gov/locations/rehoboth-state-forest"
+	},
+	{
+		"address": "Revere Beach Boulevard , Revere, MA 02151",
+		"lat": 42.4208899,
+		"lng": -70.985608,
+		"name": "Revere Beach Reservation",
+		"url": "https://www.mass.gov/locations/revere-beach-reservation"
+	},
+	{
+		"address": "428 North St., Feeding Hills, MA 01030",
+		"lat": 42.0824062,
+		"lng": -72.6573415,
+		"name": "Robinson State Park",
+		"url": "https://www.mass.gov/locations/robinson-state-park"
+	},
+	{
+		"address": "183 Roxbury Street, John Eliot Square, Boston, MA 02119",
+		"lat": 42.3305462,
+		"lng": -71.0906552,
+		"name": "Roxbury Heritage State Park",
+		"url": "https://www.mass.gov/locations/roxbury-heritage-state-park"
+	},
+	{
+		"address": "Route 107, Saugus, MA 01906",
+		"lat": 42.4441129,
+		"lng": -70.9863649,
+		"name": "Rumney Marsh Reservation",
+		"url": "https://www.mass.gov/locations/rumney-marsh-reservation"
+	},
+	{
+		"address": "49 Whitehall Road, Rutland, MA 01543",
+		"lat": 42.37299,
+		"lng": -72.00737099999999,
+		"name": "Rutland State Park",
+		"url": "https://www.mass.gov/locations/rutland-state-park"
+	},
+	{
+		"address": "State Reservation Road , Salisbury, MA 01952",
+		"lat": 42.8288234,
+		"lng": -70.81760849999999,
+		"name": "Salisbury Beach State Reservation",
+		"url": "https://www.mass.gov/locations/salisbury-beach-state-reservation"
+	},
+	{
+		"address": "Route 183 and East Hill Road, New Marlboro, MA 01230",
+		"lat": 42.09495440000001,
+		"lng": -73.1863659,
+		"name": "Sandisfield State Forest (York Lake)",
+		"url": "https://www.mass.gov/locations/sandisfield-state-forest-york-lake"
+	},
+	{
+		"address": "Parker River Wildlife Refuge Road, Ipswich, MA 01938",
+		"lat": 42.704324,
+		"lng": -70.779404,
+		"name": "Sandy Point State Reservation",
+		"url": "https://www.mass.gov/locations/sandy-point-state-reservation"
+	},
+	{
+		"address": "260 Central Shaft Road, Florida, MA 01247",
+		"lat": 42.6586808,
+		"lng": -73.05369859999999,
+		"name": "Savoy Mountain State Forest",
+		"url": "https://www.mass.gov/locations/savoy-mountain-state-forest"
+	},
+	{
+		"address": "New Bedford State Pier, New Bedford, MA 02740",
+		"lat": 41.6347062,
+		"lng": -70.9204177,
+		"name": "Schooner Ernestina-Morrissey",
+		"url": "https://www.mass.gov/locations/schooner-ernestina-morrissey"
+	},
+	{
+		"address": "20 Scusset Beach Road, Sagamore, MA 02562",
+		"lat": 41.7786881,
+		"lng": -70.5101351,
+		"name": "Scusset Beach State Reservation",
+		"url": "https://www.mass.gov/locations/scusset-beach-state-reservation"
+	},
+	{
+		"address": "42 Main St., Sandwich, MA 02563",
+		"lat": 41.7626038,
+		"lng": -70.51793289999999,
+		"name": "Shawme-Crowell State Forest",
+		"url": "https://www.mass.gov/locations/shawme-crowell-state-forest"
+	},
+	{
+		"address": "10 Skinner State Park Road, Hadley, MA 01035",
+		"lat": 42.2956712,
+		"lng": -72.5971556,
+		"name": "Skinner State Park",
+		"url": "https://www.mass.gov/locations/skinner-state-park"
+	},
+	{
+		"address": "668 Great Oak Road, Mashpee, MA 02649",
+		"lat": 41.5532907,
+		"lng": -70.505556,
+		"name": "South Cape Beach State Park",
+		"url": "https://www.mass.gov/locations/south-cape-beach-state-park"
+	},
+	{
+		"address": "136 Damon Rd., Northampton, MA 01060",
+		"lat": 42.3393416,
+		"lng": -72.6314017,
+		"name": "Southern New England Trunkline Trail",
+		"url": "https://www.mass.gov/service-details/southern-new-england-trunkline-trail-snett-and-blackstone-river-greenway-projects"
+	},
+	{
+		"address": "38 New Heath St., Boston, MA 02130",
+		"lat": 42.3258685,
+		"lng": -71.09899279999999,
+		"name": "Southwest Corridor Park",
+		"url": "https://www.mass.gov/locations/southwest-corridor-park"
+	},
+	{
+		"address": "51 Howe Road, Spencer, MA 01562",
+		"lat": 42.214098,
+		"lng": -71.9948821,
+		"name": "Spencer State Forest",
+		"url": "https://www.mass.gov/locations/spencer-state-forest"
+	},
+	{
+		"address": "Victory Road, Quincy, MA 02171",
+		"lat": 42.2958595,
+		"lng": -71.0289755,
+		"name": "Squantum Point Park",
+		"url": "https://www.mass.gov/locations/squantum-point-park"
+	},
+	{
+		"address": "457 Lincoln St., Hingham, MA 02043",
+		"lat": 42.2501478,
+		"lng": -70.9291784,
+		"name": "Stodder's Neck & Abigail Adams Park",
+		"url": "https://www.mass.gov/locations/stodders-neck-abigail-adams-park"
+	},
+	{
+		"address": "95 Turtle Pond Parkway, Hyde Park, MA 02136",
+		"lat": 42.2503005,
+		"lng": -71.1383058,
+		"name": "Stony Brook Reservation",
+		"url": "https://www.mass.gov/locations/stony-brook-reservation"
+	},
+	{
+		"address": "Arce Bridge Road, Southborough, MA 01772",
+		"lat": 42.3092759,
+		"lng": -71.53678599999999,
+		"name": "Sudbury Reservoir",
+		"url": "https://www.mass.gov/locations/sudbury-reservoir"
+	},
+	{
+		"address": "410 Tolland Road, East Otis , MA 01029",
+		"lat": 42.1606152,
+		"lng": -73.057487,
+		"name": "Tolland State Forest",
+		"url": "https://www.mass.gov/locations/tolland-state-forest"
+	},
+	{
+		"address": "205 Westboro Road, Upton, MA 01568",
+		"lat": 42.21086990000001,
+		"lng": -71.6094881,
+		"name": "Upton State Forest",
+		"url": "https://www.mass.gov/locations/upton-state-forest"
+	},
+	{
+		"address": "345 Mountain Road, Princeton, MA 01541",
+		"lat": 42.4923993,
+		"lng": -71.87994359999999,
+		"name": "Wachusett Mountain State Reservation",
+		"url": "https://www.mass.gov/locations/wachusett-mountain-state-reservation"
+	},
+	{
+		"address": "180 Beaman St., West Boylston, MA 01505",
+		"lat": 42.3841337,
+		"lng": -71.78821359999999,
+		"name": "Wachusett Reservoir",
+		"url": "https://www.mass.gov/locations/wachusett-reservoir"
+	},
+	{
+		"address": "North Street, Dalton, MA 01226",
+		"lat": 42.4849822,
+		"lng": -73.138088,
+		"name": "Wahconah Falls State Park",
+		"url": "https://www.mass.gov/locations/wahconah-falls-state-park"
+	},
+	{
+		"address": "915 Walden St., Concord, MA 01742",
+		"lat": 42.4401173,
+		"lng": -71.3336563,
+		"name": "Walden Pond State Reservation",
+		"url": "https://www.mass.gov/locations/walden-pond-state-reservation"
+	},
+	{
+		"address": "131 Waquoit, East Falmouth, MA 02536",
+		"lat": 41.581238,
+		"lng": -70.525779,
+		"name": "Waquoit Bay National Estuarine Research Reserve",
+		"url": "https://www.mass.gov/locations/waquoit-bay-national-estuarine-research-reserve"
+	},
+	{
+		"address": "1644 Bay St., Taunton, MA 02780",
+		"lat": 41.9501331,
+		"lng": -71.1140616,
+		"name": "Watson Pond State Park",
+		"url": "https://www.mass.gov/locations/watson-pond-state-park"
+	},
+	{
+		"address": "371 River St., North Weymouth, MA 02191",
+		"lat": 42.2575144,
+		"lng": -70.92277500000002,
+		"name": "Webb Memorial State Park",
+		"url": "https://www.mass.gov/locations/webb-memorial-state-park"
+	},
+	{
+		"address": "180 Old Kings Highway, Wellfleet, MA 02667",
+		"lat": 41.9250122,
+		"lng": -70.0022802,
+		"name": "Wellfleet Hollow State Campground",
+		"url": "https://www.mass.gov/locations/wellfleet-hollow-state-campground"
+	},
+	{
+		"address": "159 Walker Pond Road, Sturbridge, MA 01566",
+		"lat": 42.1469915,
+		"lng": -72.0607124,
+		"name": "Wells State Park",
+		"url": "https://www.mass.gov/locations/wells-state-park"
+	},
+	{
+		"address": "392 Wendell Rd, Millers Falls, MA 01349",
+		"lat": 42.550123,
+		"lng": -72.4534626,
+		"name": "Wendell State Forest",
+		"url": "https://www.mass.gov/locations/wendell-state-forest"
+	},
+	{
+		"address": "9 Furnace St., Building 4, North Adams, MA 01247",
+		"lat": 42.69834549999999,
+		"lng": -73.115121,
+		"name": "Western Gateway Heritage State Park",
+		"url": "https://www.mass.gov/locations/western-gateway-heritage-state-park"
+	},
+	{
+		"address": "300 Wood St., Hopkinton, MA 01748",
+		"lat": 42.2420861,
+		"lng": -71.5734385,
+		"name": "Whitehall State Park",
+		"url": "https://www.mass.gov/locations/whitehall-state-park"
+	},
+	{
+		"address": "599 Main St on RT 119, West Townsend, MA 01474",
+		"lat": 42.673357,
+		"lng": -71.7726316,
+		"name": "Willard Brook State Forest",
+		"url": "https://www.mass.gov/locations/willard-brook-state-forest"
+	},
+	{
+		"address": "252 Ipswich Road, Topsfield, MA 01983",
+		"lat": 42.6560984,
+		"lng": -70.9125369,
+		"name": "Willowdale State Forest",
+		"url": "https://www.mass.gov/locations/willowdale-state-forest"
+	},
+	{
+		"address": "384 Common St., Dedham, MA 02026",
+		"lat": 42.2590119,
+		"lng": -71.1970659,
+		"name": "Wilson Mountain Reservation",
+		"url": "https://www.mass.gov/locations/wilson-mountain-reservation"
+	},
+	{
+		"address": "River Road, Windsor, MA 01096",
+		"lat": 42.545428,
+		"lng": -73.0185766,
+		"name": "Windsor State Forest",
+		"url": "https://www.mass.gov/locations/windsor-state-forest"
+	},
+	{
+		"address": "Winthrop Shore Drive, Winthrop, MA 02152",
+		"lat": 42.3764432,
+		"lng": -70.9713605,
+		"name": "Winthrop Shore Reservation",
+		"url": "https://www.mass.gov/locations/winthrop-shore-reservation"
+	},
+	{
+		"address": "204 Union St., Hingham, MA 02043",
+		"lat": 42.2171434,
+		"lng": -70.8633669,
+		"name": "Wompatuck State Park",
+		"url": "https://www.mass.gov/locations/wompatuck-state-park"
+	},
+	{
+		"address": "690 Taunton St, Wrentham, MA 02093",
+		"lat": 42.0391466,
+		"lng": -71.3215607,
+		"name": "Wrentham State Forest",
+		"url": "https://www.mass.gov/locations/wrentham-state-forest"
+	}
+]
