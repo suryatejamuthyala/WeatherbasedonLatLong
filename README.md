@@ -12,7 +12,8 @@ File: locations.json
 
 As for looking up weather conditions, I suggest using OpenWeather, but you can use a different API if you prefer. If you use OpenWeather, feel free to use this API key. However, it's shared and limited to 60 requests / minute, so you may find it easier to register for your own free account.
 
-API Key: b4bc98201ef4fbaca2e89f55e1553217
+`API Key: b4bc98201ef4fbaca2e89f55e1553217
+`
 
 If you have extra time, feel free to add additional features of your choosing.
 
@@ -33,4 +34,5 @@ Here is a Java Project for above task, where API should be passed 3 parameters L
 
 # Any Questions
 
-If any questions reach suryamuthyala@yahoo.com
+`If any questions reach suryamuthyala@yahoo.com
+`
